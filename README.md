@@ -2,9 +2,9 @@
 
 ## Mobile development in Flutter
 
-- [Base Flutter app](https://github.com/OBorovec/app-FlutterAppBase) - just a template I am using to start with
 - [Blapka/BlavApp](https://github.com/OBorovec/app-BlaviconApp) - and app for the purpose of GwintClub and Witcher theme festivals
 - [Gwent Board](https://github.com/OBorovec/app-GwentBoard) - visual calculator for Gwent games
+- [WordGic](https://github.com/OBorovec/app-WordGic) - A simple game of guessing english words
 - [Online camera detection](https://github.com/OBorovec/app-FlutterOnlineDetectionApp) - Flutter meets ML and AI
 
 ## Reserach
