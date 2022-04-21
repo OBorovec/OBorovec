@@ -6,6 +6,7 @@
 - [Gwent Board](https://github.com/OBorovec/app-GwentBoard) - visual calculator for Gwent games
 - [WordGic](https://github.com/OBorovec/app-WordGic) - A simple game of guessing english words
 - [Online camera detection](https://github.com/OBorovec/app-FlutterOnlineDetectionApp) - Flutter meets ML and AI
+- [Zbrojak](https://github.com/OBorovec/app-Zbrojak) - An app to help me to get ready to take a firearm exam in CZ
 
 ## Reserach
 
